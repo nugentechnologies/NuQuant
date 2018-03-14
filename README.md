@@ -28,7 +28,7 @@ Note - can only be implemented on Qubit® 2.0 Fluorometers running firmware v3.1
   
 Option A: Select a destination folder for the new assay and touch `Save`. Each folder can hold up to 9 assays.
   
-Option B: Alternatively, touch `New folder` to create a new destination folder. On the New folder screen, touch the `New folder` text field. A keyboard pops up. Using the keyboard, type in the name of the new destination folder. You can use up to 11 characters; spaces at the beginning or the end of the name are not recognized. Touch `Enter`, and then touch `Done` to return to the Import new assay – Where screen. The newly created folder will appear in the list of folders. Select the new destination folder and touch `Save`.
+Option B: Alternatively, touch `New folder` to create a new destination folder. On the New folder screen, touch the `New folder` text field. A keyboard pops up. Using the keyboard, type in the name of the new destination folder. You can use up to 11 characters; spaces at the beginning or the end of the name are not recognized. Touch `Enter`, and then touch `Done` to return to the "Import new assay – Where" screen. The newly created folder will appear in the list of folders. Select the new destination folder and touch `Save`.
   
   5.	On the verification screen, touch `Done` to complete the import process.
 
@@ -37,9 +37,9 @@ Option B: Alternatively, touch `New folder` to create a new destination folder. 
 If you wish to remove the assay, including the NuGEN button from your Qubit home screen, perform the following steps:
 
   1.	Follow the steps for upgrading firmware (see firmware upgrade instructions.)
-  2.	Once you press the `Update` button, a message will appear titled “Updating: Select Assay(s) to Delete”. Select “NuGEN”. The NuGEN line will turn gray, indicating it has been selected.
+  2.	Once you press the `Update` button, a message will appear titled “Updating: Select Assay(s) to Delete”. Select `NuGEN`. The NuGEN line will turn gray, indicating it has been selected.
   3.	Click `OK`. 
-  4.	Another window will appear with the message “The selected assay(s) will be deleted. Do you wish to proceed?”  Click “Yes”. 
+  4.	Another window will appear with the message “The selected assay(s) will be deleted. Do you wish to proceed?”  Click `Yes`. 
   5.	The “Updating firmware…” status bar will appear. After approximately 1 minute, the update will be complete and the NuGEN NuQuant app will have been removed.
 
 ### Uninstalling NuGEN Assay from Qubit 3.0 and Qubit 4
