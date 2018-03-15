@@ -12,7 +12,7 @@ Download the most recent release [here](https://github.com/nugentechnologies/NuQ
 **Note:** NuQuant can only be implemented on Qubit® 2.0 Fluorometers running firmware v3.11 (or higher). For instruments requiring an upgrade, see firmware upgrade instructions [here](https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/fluorometers/qubit/qubit-technical-resources/previous-qubit-models/qubit-firmware.html).
 
   1. After downloading the file `Q2CeleroPCRv1.qbt` from the above link, copy it to the root directory of a USB drive (do NOT place the `.qbt` file into a folder in the USB drive). 
-     -**Important:** Make sure there is only one `.qbt` file saved to the root directory of the USB drive. Having multiple `.qbt` files present on the USB drive will result in an error when uploading the file.
+     - **Important:** Make sure there is only one `.qbt` file saved to the root directory of the USB drive. Having multiple `.qbt` files present on the USB drive will result in an error when uploading the file.
   2.	Unplug the Qubit power source, insert the USB drive containing the `Q2CeleroPCRv1.qbt` file into the USB drive port of the Qubit® 2.0 Fluorometer, and plug the power back in.
   3.	You will see the message *"Q2CeleroPCRv1.qbt file detected. Do you wish to upload?"* Select `Yes`.
   4.	On the home screen you will now see a button marked NuGEN. Select this to perform the NuQuant assay for Celero PCR library products.
@@ -21,7 +21,7 @@ Download the most recent release [here](https://github.com/nugentechnologies/NuQ
 ### Installing NuQuant on Qubit 3.0 and Qubit 4
 
   1. After downloading the file `Q3andQ4CeleroPCRv1.qbt` from the above link, copy it to the root directory of a USB drive (do NOT place the `.qbt` file into a folder in the USB drive). 
-     -**Important:** Make sure there is only one `.qbt` file saved to the root directory of the USB drive. Having multiple `.qbt` files present on the USB drive will result in an error when uploading the file.
+     - **Important:** Make sure there is only one `.qbt` file saved to the root directory of the USB drive. Having multiple `.qbt` files present on the USB drive will result in an error when uploading the file.
   2. Insert the USB drive into the USB drive port of the Qubit® 3.0 or Qubit® 4 Fluorometer. 
   3. Go to the Settings screen and touch `Import new assay`. The instrument searches the USB drive for the `.qbt` file and the Import new assay screen displays "Celero PCR NuQuant v1.0" under Assay name.
   4. Touch to “Celero PCR NuQuant v1.0” to select. It will become highlighted. Touch `Next`.
