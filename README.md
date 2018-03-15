@@ -1,6 +1,6 @@
 # NuGEN NuQuant Assay for Qubit
 
-![](http://nugendata.com/images/nugen_logo_noedge.png)  
+![http://www.nugen.com](https://www.nugen.com/sites/default/files/logo_0.png)  
 [www.nugen.com](http://www.nugen.com)
 
 ## Downloading the application
@@ -21,15 +21,13 @@ Download the most recent release [here](https://github.com/nugentechnologies/NuQ
 ### Installing NuQuant on Qubit 3.0 and Qubit 4
 
   1. After downloading the file `Q3andQ4CeleroPCRv1.qbt` from the above link, copy it to the root directory of a USB drive (do NOT place the `.qbt` file into a folder in the USB drive). 
-     - **Important:** Make sure there is only one `.qbt` file saved to the root directory of the USB drive. Having multiple `.qbt` files present on the USB drive will result in an error when uploading the file.
+     - **Important:** Make sure there is only one `.qbt` file saved to the root directory of the USB drive. Having multiple `.qbt` files present on the USB drive will result in an error when uploading the file.    
   2. Insert the USB drive into the USB drive port of the Qubit® 3.0 or Qubit® 4 Fluorometer. 
   3. Go to the Settings screen and touch `Import new assay`. The instrument searches the USB drive for the `.qbt` file and the Import new assay screen displays "Celero PCR NuQuant v1.0" under Assay name.
   4. Touch to “Celero PCR NuQuant v1.0” to select. It will become highlighted. Touch `Next`.
+     - Option A: Select a destination folder for the new assay and touch `Save`. Each folder can hold up to 9 assays.
   
-     -Option A: Select a destination folder for the new assay and touch `Save`. Each folder can hold up to 9 assays.
-  
-     -Option B: Alternatively, touch `New folder` to create a new destination folder. On the New folder screen, touch the `New folder` text field. A keyboard pops up. Using the keyboard, type in the name of the new destination folder. You can use up to 11 characters; spaces at the beginning or the end of the name are not recognized. Touch `Enter`, and then touch `Done` to return to the "Import new assay – Where" screen. The newly created folder will appear in the list of folders. Select the new destination folder and touch `Save`.
-  
+     - Option B: Alternatively, touch `New folder` to create a new destination folder. On the New folder screen, touch the `New folder` text field. A keyboard pops up. Using the keyboard, type in the name of the new destination folder. You can use up to 11 characters; spaces at the beginning or the end of the name are not recognized. Touch `Enter`, and then touch `Done` to return to the "Import new assay – Where" screen. The newly created folder will appear in the list of folders. Select the new destination folder and touch `Save`.
   5.	On the verification screen, touch `Done` to complete the import process.
   6.	On the home screen you will now see a button marked Celero PCR. Select this to perform the NuQuant assay for Celero PCR library products.
 
