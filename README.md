@@ -15,7 +15,7 @@ Download the most recent release [here](https://github.com/nugentechnologies/NuQ
      - **Important:** Make sure there is only one `.qbt` file saved to the root directory of the USB drive. Having multiple `.qbt` files present on the USB drive will result in an error when uploading the file.
   2.	Unplug the Qubit power source, insert the USB drive containing the `Q2CeleroPCRv1.qbt` file into the USB drive port of the Qubit® 2.0 Fluorometer, and plug the power back in.
   3.	You will see the message *"Q2CeleroPCRv1.qbt file detected. Do you wish to upload?"* Select `Yes`.
-  4.	On the home screen you will now see a button marked NuGEN. Select this to perform the NuQuant assay for Celero PCR library products.
+  4.	On the home screen you will now see a button marked `Celero PCR`. Select this to perform the NuQuant assay for Celero PCR library products.
 
 
 ### Installing NuQuant on Qubit 3.0 and Qubit 4
@@ -34,7 +34,7 @@ Download the most recent release [here](https://github.com/nugentechnologies/NuQ
 
 ### Uninstalling NuQuant on Qubit 2.0
 
-If you wish to remove NuQuant, including the NuGEN button from your Qubit home screen, perform the following steps:
+If you wish to remove NuQuant, including the `Celero PCR` button from your Qubit home screen, perform the following steps:
 
   1.	Follow the steps for upgrading firmware (see firmware upgrade instructions.)
   2.	Once you press the `Update` button, a message will appear titled “Updating: Select Assay(s) to Delete”. Select `Celero PCR`. The *Celero PCR* line will turn gray, indicating it has been selected.
