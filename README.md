@@ -39,7 +39,7 @@ Download the most recent release [here](https://github.com/nugentechnologies/NuQ
 If you wish to remove NuQuant, including the NuGEN button from your Qubit home screen, perform the following steps:
 
   1.	Follow the steps for upgrading firmware (see firmware upgrade instructions.)
-  2.	Once you press the `Update` button, a message will appear titled “Updating: Select Assay(s) to Delete”. Select `NuGEN`. The NuGEN line will turn gray, indicating it has been selected.
+  2.	Once you press the `Update` button, a message will appear titled “Updating: Select Assay(s) to Delete”. Select `Celero PCR`. The *Celero PCR* line will turn gray, indicating it has been selected.
   3.	Click `OK`. 
   4.	Another window will appear with the message *“The selected assay(s) will be deleted. Do you wish to proceed?”*  Click `Yes`. 
   5.	The “Updating firmware…” status bar will appear. After approximately 1 minute, the update will be complete and the NuGEN NuQuant app will have been removed.
@@ -49,5 +49,5 @@ If you wish to remove NuQuant, including the NuGEN button from your Qubit home s
   1.	Go to the Settings screen and touch Manage assays.
   2.	Touch `Show/hide Assays`.
   3.  Select the folder which contains NuQuant.
-  4.  Next to CeleroPCR NuQuant v1.0, touch `Delete`, then `Done`.
+  4.  Next to *CeleroPCR NuQuant v1.0*, touch `Delete`, then `Done`.
   5.	The next screen will ask *“This will permanently delete the selected assay(s). Do you wish to continue?"* Touch `OK`.
